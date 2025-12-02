@@ -29,14 +29,4 @@ Aporto la capacidad de liderar equipos y traducir complejos conjuntos de datos e
 
 * **Análisis y Business Intelligence:** Power BI, Tableau, Microsoft Excel Avanzado.
 * **Lenguajes de Programación:** Python, RStudio, SQL (Modelamiento de Bases de Datos).
-* **Gestión y Metodologías:** Gestión de Proyectos Ágiles, Design Thinking, Transformación Digital, Liderazgo de Equipos.
-
----
-
-## ✉️ Contacto
-
-¡Me encantaría colaborar en tu próximo proyecto!
-
-* **LinkedIn:** [https://www.linkedin.com/in/patricia-vidal-4bb519327/](https://www.linkedin.com/in/patricia-vidal-4bb519327/)
-* **Email:** patricia.vidaluribe@gmail.com
-
+* **Gestión y Metodologías:** Gestión de
