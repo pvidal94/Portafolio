@@ -19,11 +19,11 @@ Aporto la capacidad de liderar equipos y traducir complejos conjuntos de datos e
 
 ## 📊 Proyectos Destacados (Mis Casos de Éxito)
 
-| Proyecto | Descripción | Herramientas Clave | Demo (Hosting) | Repositorio |
-| :--- | :--- | :--- | :--- | :--- |
-| **Estrategia CTCI Los Lagos/Ríos** | Recolección, sistematización y procesamiento de **Big Data** para la Estrategia de Ciencia, Tecnología, Conocimiento e Innovación regional. | Python, RStudio, Excel Avanzado | **[Ver Dashboard/Reporte]** | **[Ver Código]** |
-| **Ley de Transformación Digital** | Implementación de la Ley de Transformación Digital del Estado, enfocada en los procesos de **Municipios Conectados**. Incluye optimización de procesos internos. | Gestión de Proyectos, Design Thinking, Liderazgo | **[Ver Caso de Estudio]** | **[Ver Documentación]** |
-| **Análisis de Datos Certificado** | Proyecto de análisis de datos completo realizado durante el **Certificado Profesional de Google** y el **Bootcamp Análisis de Datos**. | SQL, Power BI, Excel Avanzado | **[Ver Dashboard Interactivo]** | **[Ver Código]** |
+| Proyecto | Descripción | Herramientas Clave |
+| :--- | :--- | :--- |
+| **Estrategia CTCI Los Lagos/Ríos** | Recolección, sistematización y procesamiento de **Big Data** para la Estrategia de Ciencia, Tecnología, Conocimiento e Innovación regional. | Python, RStudio, Excel Avanzado |
+| **Ley de Transformación Digital** | Implementación de la Ley de Transformación Digital del Estado, enfocada en los procesos de **Municipios Conectados**. Incluye optimización de procesos internos. | Gestión de Proyectos, Design Thinking, Liderazgo |
+| **Análisis de Datos Certificado** | Proyecto de análisis de datos completo realizado durante el **Certificado Profesional de Google** y el **Bootcamp Análisis de Datos**. | SQL, Power BI, Excel Avanzado |
 
 ## 🛠️ Stack de Tecnologías
 
@@ -39,3 +39,4 @@ Aporto la capacidad de liderar equipos y traducir complejos conjuntos de datos e
 
 * **LinkedIn:** [https://www.linkedin.com/in/patricia-vidal-4bb519327/](https://www.linkedin.com/in/patricia-vidal-4bb519327/)
 * **Email:** patricia.vidaluribe@gmail.com
+
